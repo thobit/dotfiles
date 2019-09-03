@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+~/.screenlayout/2monsetup.sh
+feh --bg-max --randomize --no-fehbg ~/.wallpapers/*
+compton -b --fading --fade-out-step 0.2 --fade-in-step 0.2
+unclutter --fork
