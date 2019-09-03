@@ -1,0 +1,167 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/thobit/
+	..
+1565861666
+'b
+	/home/thobit/bin/
+	..
+1565861666
+'h
+	/home/thobit/
+	..
+1565861666
+'z
+	/home/thobit/.config/vifm
+	..
+1565861666
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/thobit
+	..
+0
+d/home
+	..
+0
+d/
+	mnt
+7
+d/mnt
+	..
+0
+d/
+	var
+17
+d/var
+	data-01
+2
+d/var/data-01
+	secret
+11
+d/var/data-01/secret
+	Fotokalender Lena 2016
+22
+d/var/data-01/secret/Fotokalender Lena 2016
+	..
+0
+d/var/data-01/secret
+	GB Jan und Simone
+23
+d/var/data-01/secret/GB Jan und Simone
+	..
+0
+d/var/data-01/secret
+	Festplatte Sicherung 28.11.2016
+21
+d/var/data-01
+	Documents
+2
+d/var/data-01/Documents
+	VPN-Einstellungen_files
+4
+d/var/data-01/Documents/VPN-Einstellungen_files
+	..
+0
+d/var/data-01/Documents
+	Briefe
+2
+d/var/data-01/Documents/Briefe
+	..
+0
+d/var/data-01/Documents
+	Briefe
+2
+d/var/data-01
+	Documents
+2
+d/var/data-01/Documents
+	Briefe
+2
+d/var/data-01/Documents/Briefe
+	..
+0
+d/var/data-01/Documents
+	Bewerbungen
+1
+d/var/data-01/Documents/Bewerbungen
+	..
+0
+d/var/data-01/Documents
+	..
+0
+d/var/data-01
+	secret
+11
+d/var/data-01/secret
+	201712_Oslo Lena & Ilka
+15
+d/var/data-01/secret/201712_Oslo Lena & Ilka
+	..
+0
+d/var/data-01/secret
+	201712_Sicherung Sony Kamera
+16
+d/var/data-01/secret/201712_Sicherung Sony Kamera
+	..
+0
+d/var/data-01/secret
+	20171003_Geb 60 Regina Witt
+19
+d/var/data-01
+	Downloads
+3
+d/var/data-01/Downloads
+	B1gesamtvortrag19_1142.pdf
+10
+d
+
+# Right window history (oldest to newest):
+D/home/thobit
+	Downloads
+3
+D/home/thobit/Downloads
+	..
+0
+D/home/thobit
+	Videos
+7
+D
+
+# Command line history (oldest to newest):
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
