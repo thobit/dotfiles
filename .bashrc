@@ -26,6 +26,7 @@ alias cdow='cd ~/Downloads'
 alias cdu='cd ~/Development/uni'
 alias cdot='cd ~/Development/dotfiles'
 alias vim='nvim'
+alias vimi3='nvim ~/.config/i3/config'
 
 export PS1="\[\033[38;5;253m\][\[$(tput sgr0)\]\[\033[38;5;172m\]\u\[$(tput sgr0)\]\[\033[38;5;220m\]@\h\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[\033[38;5;33m\]\W\[$(tput sgr0)\]\[\033[38;5;253m\]]\[$(tput sgr0)\]\[\033[38;5;15m\]\\$ \[$(tput sgr0)\]"
 
