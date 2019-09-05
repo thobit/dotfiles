@@ -35,7 +35,8 @@ set autoindent
 set smartindent
 set cindent
 set noeb vb t_vb=
-
+" remap <ESC> to jj
+nnoremap <ESC> jjk
 
 " Begin NERDTree
 " Open NERDTree when vim opens a directory

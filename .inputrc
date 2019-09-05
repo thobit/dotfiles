@@ -1,1 +1,7 @@
 set bell-style none
+
+set editing-mode = vi
+$if mode=vi
+    set keymap vi instert
+    Control-l: clear-screen
+$endif
