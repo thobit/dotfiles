@@ -1,6 +1,10 @@
 #!/usr/bin/env sh
 
+# xrandrscript for two monitor setup
 ~/.screenlayout/2monsetup.sh
+# get some shiny wallpapers
 feh --bg-max --randomize --no-fehbg ~/.wallpapers/*
+# start compositing manager
 compton -b --fading --fade-out-step 0.2 --fade-in-step 0.2
+# hide mousebutton when it is not used for a longer time
 unclutter --fork

@@ -5,7 +5,9 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-HISTSIZE= HISTFILESIZE=
+# Keep it all, I have enough diskspace
+HISTSIZE=
+HISTFILESIZE=
 
 
 alias ls='ls --color=auto'
