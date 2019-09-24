@@ -3,7 +3,7 @@ URxvt.scrollBar: false
 ! special
 *.foreground:   #c5c8c6
 URxvt.background: [90]#1d1f21
-i3status.background: [90]#000000
+i3status.background: [10]#000000
 *.background:   #1d1f21
 *.cursorColor:  #c5c8c6
 

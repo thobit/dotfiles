@@ -5,6 +5,11 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+if [ -f "$HOME/.bash-git-prompt/gitprompt.sh" ]; then
+    GIT_PROMPT_ONLY_IN_REPO=1
+    source $HOME/.bash-git-prompt/gitprompt.sh
+fi
+
 # Keep it all, I have enough diskspace
 HISTSIZE=
 HISTFILESIZE=
@@ -21,6 +26,7 @@ alias pmss='pacman -Ss'
 alias pmr='sudo pacman -Rs'
 alias pmsyu='sudo pacman -Syu'
 alias vbm='VBoxManage'
+alias vbmh='VBoxManage startvm --type headless'
 alias cdes='cd ~/Desktop'
 alias cdev='cd ~/Development'
 alias cdoc='cd ~/Documents'
@@ -33,4 +39,4 @@ alias vimi3='nvim ~/.config/i3/config'
 export PS1="\[\033[38;5;253m\][\[$(tput sgr0)\]\[\033[38;5;172m\]\u\[$(tput sgr0)\]\[\033[38;5;220m\]@\h\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[\033[38;5;33m\]\W\[$(tput sgr0)\]\[\033[38;5;253m\]]\[$(tput sgr0)\]\[\033[38;5;15m\]\\$ \[$(tput sgr0)\]"
 
 # Setup to track dotfiles by git https://www.atlassian.com/git/tutorials/dotfiles
-alias config='/usr/bin/git --git-dir=$HOME/Development/dotfiles/ --work-tree=$HOME'
+alias gitdot='/usr/bin/git --git-dir=$HOME/Development/dotfiles/ --work-tree=$HOME'

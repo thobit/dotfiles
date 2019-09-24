@@ -17,6 +17,12 @@ Plug 'davidhalter/jedi-vim'
 Plug 'nvie/vim-flake8', { 'for': 'py' }
 " Code Linting
 Plug 'dense-analysis/ale'
+" Code for git integration
+Plug 'tpope/vim-fugitive'
+" make a line a comment on one keystroke
+Plug 'tpope/vim-commentary'
+" funny comments on startup https://github.com/mhinz/vim-startify
+Plug 'mhinz/vim-startify'
 call plug#end()
 
 syntax on

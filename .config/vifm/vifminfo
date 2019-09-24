@@ -13,15 +13,11 @@
 	/home/thobit/
 	..
 1565861666
-'z
-	/home/thobit/.config/vifm
-	..
-1565861666
 
 # Bookmarks:
 
 # TUI:
-al
+ar
 q0
 v2
 ov
@@ -124,8 +120,14 @@ d/var/data-01
 	Downloads
 3
 d/var/data-01/Downloads
-	B1gesamtvortrag19_1142.pdf
-10
+	lina
+5
+d/var/data-01/Downloads/lina
+	..
+0
+d/var/data-01/Downloads
+	..
+0
 d
 
 # Right window history (oldest to newest):
@@ -136,11 +138,54 @@ D/home/thobit/Downloads
 	..
 0
 D/home/thobit
-	Videos
-7
+	..
+0
+D/home
+	thobit
+1
+D/home/thobit
+	..
+0
+D/home
+	thobit
+1
+D/home/thobit
+	..
+0
+D/home
+	thobit
+1
+D/
+	home
+4
+D/home
+	..
+0
+D/
+	home
+4
+D/home
+	..
+0
+D/
+	home
+4
+D/home
+	thobit
+1
+D/home/thobit
+	Documents
+3
+D/home/thobit/Documents
+	spiegel
+9
+D/home/thobit/Documents/spiegel
+	..
+0
 D
 
 # Command line history (oldest to newest):
+:help
 :q
 
 # Search history (oldest to newest):
@@ -150,10 +195,19 @@ D
 # Local filter history (oldest to newest):
 
 # Registers:
+""/var/data-01/.vifm-Trash-1000/000_spiegel.zip
 
 # Directory stack (oldest to newest):
 
 # Trash content:
+t/var/data-01/.vifm-Trash-1000/000_CentOS-7-x86_64-DVD-1810.iso
+	/var/data-01/Downloads/CentOS-7-x86_64-DVD-1810.iso
+t/var/data-01/.vifm-Trash-1000/000_CentOS-7-x86_64-Minimal-1810.iso
+	/var/data-01/Downloads/CentOS-7-x86_64-Minimal-1810.iso
+t/var/data-01/.vifm-Trash-1000/000_FontBase-2.8.5.AppImage
+	/var/data-01/Downloads/FontBase-2.8.5.AppImage
+t/var/data-01/.vifm-Trash-1000/000_spiegel.zip
+	/home/thobit/Documents/spiegel/spiegel.zip
 
 # State:
 f
