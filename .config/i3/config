@@ -122,14 +122,14 @@ set $ws9 "9"
 set $ws10 "10"
 
 workspace 1 output HDMI2
-workspace 2 output HDMI3
+workspace 2 output HDMI2
 workspace 3 output HDMI2
-workspace 4 output HDMI3
+workspace 4 output HDMI2
 workspace 5 output HDMI2
 workspace 6 output HDMI3
-workspace 7 output HDMI2
+workspace 7 output HDMI3
 workspace 8 output HDMI3
-workspace 9 output HDMI2
+workspace 9 output HDMI3
 workspace 10 output HDMI3
 
 # switch to workspace

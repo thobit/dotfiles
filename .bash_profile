@@ -4,7 +4,7 @@
 
 [[ -f ~/.bashrc ]] && . ~/.bashrc
 
-export PATH="$PATH:~/.scripts:~/.screenlayout"
+export PATH="$PATH:$HOME/.scripts:$HOME/.screenlayout:$HOME/.bin"
 
 export EDITOR="vim"
 export BROWSER="firefox"
